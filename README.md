@@ -33,7 +33,7 @@ The project includes two trend analysis methods and three change-point detection
 - `Pettitt Test.R`
 - `CUSUM.R`
 - `LinearKernelChangePointDetection.py`
-- Additional supporting scripts and files.
+
 
 ## 🎓 Thesis Contribution
 
